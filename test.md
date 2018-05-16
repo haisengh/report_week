@@ -1,4 +1,4 @@
-# Labeling Block Tool使用体验汇总
+# Labeling Block Tool使用体验
 
 1. 无法创建任务
 
